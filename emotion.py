@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Clement Michard (c) 2015
+Rok Lampret 2017
 """
+
+from __future__ import print_function
 
 class Emotion:
     """Defines an emotion."""
